@@ -1,4 +1,4 @@
 # Doctors_Reviews_NLP
 What key words and phrases distinguish good and bad reviews for doctors.  
 
-Review_Analysis.ipynb
+![Review_Analysis.ipynb](Project)
